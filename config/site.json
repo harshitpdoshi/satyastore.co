@@ -1,0 +1,51 @@
+{
+  "business": {
+    "name": "Satya Store",
+    "tagline": "homeware & kitchen essentials",
+    "about": "Since 1972 — crockery, bottles, lunch boxes, bathroom & kitchenware. Trusted by our hometown for everyday quality.",
+    "address": {
+      "line1": "Satya Stores, Dharmendra Road",
+      "line2": "Rajkot",
+      "city": "Rajkot",
+      "state": "Gujarat",
+      "postalCode": "360001",
+      "country": "IN"
+    },
+    "geo": { "lat": 22.308155, "lng": 70.800705 },
+    "hours": [
+      { "days": "Mon–Sat", "open": "10:00", "close": "20:00" },
+      { "days": "Sun", "open": "10:00", "close": "14:00" }
+    ],
+    "phoneE164": "+918000800090",
+    "whatsappE164": "+918000800090",
+    "email": "connect@satyastore.co"
+  },
+  "social": {
+    "instagram": "https://instagram.com/satyastore.co"
+  },
+  "map": {
+    "embedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d497.98845611606276!2d70.80398325112466!3d22.299164048534603!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3959ca038ad80e5f%3A0xa29f93eb971e7d76!2sSatya%20Stores!5e0!3m2!1sen!2sin!4v1764071179623!5m2!1sen!2sin",
+    "openInMapsUrl": "https://www.google.com/maps/search/?api=1&query=22.308155,70.800705"
+  },
+  "upi": {
+    "vpa": "satyastore@upi",
+    "merchantName": "Satya Store",
+    "merchantCode": "0000",
+    "note": "In-store purchase",
+    "presetAmounts": [100, 200, 500],
+    "qrImage": "/images/upi-qr.png"
+  },
+  "gallery": [
+    { "src": "/images/placeholders/storefront.jpg", "alt": "Satya Store storefront", "width": 1600, "height": 900 },
+    { "src": "/images/placeholders/aisle.jpg", "alt": "Aisle: bottles & jars", "width": 1600, "height": 900 },
+    { "src": "/images/placeholders/crockery.jpg", "alt": "Crockery display", "width": 1600, "height": 900 },
+    { "src": "/images/placeholders/lunchboxes.jpg", "alt": "Lunch boxes wall", "width": 1600, "height": 900 },
+    { "src": "/images/placeholders/kitchen-items.jpg", "alt": "Kitchen essentials", "width": 1600, "height": 900 },
+    { "src": "/images/placeholders/bathroom-items.jpg", "alt": "Bathroom accessories", "width": 1600, "height": 900 }
+  ],
+  "theme": {
+    "palette": "neutral",
+    "logo": "/images/logo.jpg",
+    "favicon": "/favicon.ico"
+  }
+}
