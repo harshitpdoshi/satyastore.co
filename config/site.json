@@ -36,12 +36,114 @@
     "qrImage": "/images/upi-qr.png"
   },
   "gallery": [
-    { "src": "/images/placeholders/storefront.jpg", "alt": "Satya Store storefront", "width": 1600, "height": 900 },
-    { "src": "/images/placeholders/aisle.jpg", "alt": "Aisle: bottles & jars", "width": 1600, "height": 900 },
-    { "src": "/images/placeholders/crockery.jpg", "alt": "Crockery display", "width": 1600, "height": 900 },
-    { "src": "/images/placeholders/lunchboxes.jpg", "alt": "Lunch boxes wall", "width": 1600, "height": 900 },
-    { "src": "/images/placeholders/kitchen-items.jpg", "alt": "Kitchen essentials", "width": 1600, "height": 900 },
-    { "src": "/images/placeholders/bathroom-items.jpg", "alt": "Bathroom accessories", "width": 1600, "height": 900 }
+    {
+      "src": "/images/d5741ec7-c61b-4d6e-87f0.jpeg",
+      "alt": "Colorful lunch boxes and storage containers display",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "src": "/images/8014dd81-7ba0-425c-9ff5.jpeg",
+      "alt": "Steel water bottles and thermos collection",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "src": "/images/69bf07c8-e4a0-4a2a-86d3.jpeg",
+      "alt": "Milton lunch boxes and food storage containers",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "src": "/images/9d131409-4240-4dbe-9aa9.jpeg",
+      "alt": "Premium kitchen products on display",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "src": "/images/76553f57-bf82-41fd-8616.jpeg",
+      "alt": "Food storage containers and jars collection",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "src": "/images/4bd03021-43f8-4d2a-af76.jpeg",
+      "alt": "Full store interior view with colorful products",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "src": "/images/ba72bc6d-e4d9-4325-a486.jpeg",
+      "alt": "Organized shelf display with kitchen items",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "src": "/images/1e46679a-9c86-43e3-8e59.jpeg",
+      "alt": "Kitchen utensils and cutlery collection",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "src": "/images/a8787a5c-feb7-41f7-8c87.jpeg",
+      "alt": "Colorful water bottles and beverage containers",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "src": "/images/13434b29-0897-4192-b65a.jpeg",
+      "alt": "Store display with bottles, containers, and products",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "src": "/images/1fc36c6e-b9dd-4f41-8d5d.jpeg",
+      "alt": "Satya Store storefront exterior with colorful baskets and kitchenware",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "src": "/images/55b49041-8144-4cf8-8e1b.jpeg",
+      "alt": "Wall display of kitchen utensils, tools, and gadgets organized on pegboard",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "src": "/images/4239c3e1-df85-4ba4-9119.jpeg",
+      "alt": "Satya Store storefront with blue lettering and shop displays",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "src": "/images/1e412ab4-71d8-4e5e-95fd.jpeg",
+      "alt": "Glass display cabinet with Milton thermoses and water bottles collection",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "src": "/images/a3e9c9f6-114a-4ade-9a3f.jpeg",
+      "alt": "Interior store shelving with Milton brand products and packaging",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "src": "/images/18f4310c-5161-46f2-a962.jpeg",
+      "alt": "Glass display case featuring Milton containers and decorative religious artwork",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "src": "/images/c49992c0-4d51-4341-9d32.jpeg",
+      "alt": "Interior store view with colorful plastic baskets hanging and organized shelving",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "src": "/images/14d22225-e040-453f-9826.jpeg",
+      "alt": "Detailed shelf display of colorful plastic bowls, baskets, and cleaning supplies",
+      "width": 1600,
+      "height": 900
+    }
   ],
   "theme": {
     "palette": "neutral",
